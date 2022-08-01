@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Othman
+#### I am a Student in Bigdata and System d'information
+![I am a Student in Bigdata and System d'information](https://user-images.githubusercontent.com/108811353/182140467-26faa53c-597f-4ca5-8c66-73576976c210.png)
 
-<!--
-**OthmanMoussaoui/OthmanMoussaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made those project to improve My Skills ,
 
-Here are some ideas to get you started:
+Skills: SQL/Oracle/Python/Java/Excel/Matlab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Cloud and PowerBI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OthmanMoussaoui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/othman-moussaoui/)  
+
